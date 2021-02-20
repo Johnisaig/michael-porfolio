@@ -1,0 +1,28 @@
+@font-face {
+  font-family: RobontoRegular;
+  src: url('~assets/fonts/RobotoCondensed-Regular.ttf');
+}
+
+@font-face {
+  font-family: RobotoBold;
+  font-weight: bold;
+  src: url('~assets/fonts/RobotoCondensed-Bold.ttf');
+}
+
+@font-face {
+  font-family: RobontoBoldItalic;
+  src: url('~assets/fonts/RobotoCondensed-BoldItalic.ttf');
+}
+
+@font-face {
+  font-family: RobotoItalic;
+  src: url('~assets/fonts/RobotoCondensed-Italic.ttf');
+}
+
+body {
+  margin: 0;
+  background-color: #151724;
+  min-height: 100vh;
+  font-family: RobontoRegular;
+  max-height: 987px;
+}
